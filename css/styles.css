@@ -1,0 +1,38 @@
+#header {
+    background: url("../imgs/donnie-rosie-605394-unsplash_resize.jpg");
+    /* background: url("imgs/header.jpeg") center center / cover no-repeat; */
+    /* Photo by Donnie Rosie on Unsplash */
+    /* https://unsplash.com/photos/taO2fC7sxDU */
+    color: white;
+}
+
+.btn-primary .btn-success .btn-danger {
+  color: white;
+}
+
+
+/*** Footer styling ***/
+
+footer {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+footer {
+    text-align: center;
+    border-top: 2px solid #7d97ad;
+}
+
+footer p {
+    font-size: 0.75em;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.github-icon,
+.github-icon a,
+.github-icon img {
+    width: 50px;
+    height: 50px;
+    padding-bottom: 10px;
+}
