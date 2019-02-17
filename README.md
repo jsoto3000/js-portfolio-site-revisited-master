@@ -1,4 +1,5 @@
 # Udacity - Portfolio Site Project Revisited
+
 # Colt Steele Web Development - Section 8 Bootstrap 4
 
 - [About this project](#about)
@@ -32,4 +33,4 @@ To run the site on your local machine
 1. Download or clone the repository onto your machine.
 2. Extract the .zip file.
 3. Open .html file in your browser.
-5. Alternatively you can click on the following [Site Link](TBD "Site Link") to view.
+5. Alternatively you can click on the following [Site Link](https://jsoto3000.github.io/js-portfolio-site-revisited-master/ "Site Link") to view.
